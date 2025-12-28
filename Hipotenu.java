@@ -15,7 +15,8 @@ public class Hipotenu {
 		return hipo;
 	}
 	
-	//Línea con comentarios para prueba
+	// Línea con comentarios para prueba
+	// Comentario en rama featureA 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner (System.in);
 		double cateto1 = pedirNumero ("Introduzca el primer cateto: ", teclado);
